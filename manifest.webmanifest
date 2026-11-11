@@ -1,0 +1,23 @@
+{
+  "name": "MathSimAI+ Pecutan Terakhir SPM 2026",
+  "short_name": "MathSimAI+",
+  "description": "Bank soalan, nota infografik, simulator dan aplikasi kejuruteraan Matematik Tambahan 3472 untuk SPM 2026. Disediakan oleh Ir. Ts. Dr. Muhammad Hafiz HASSAN, USM.",
+  "lang": "ms",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1B1240",
+  "theme_color": "#2E1A63",
+  "categories": ["education"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Kertas 1", "url": "./index.html#kertas1"},
+    {"name": "Kertas 2", "url": "./index.html#kertas2"},
+    {"name": "Nota Infografik", "url": "./index.html#nota"}
+  ]
+}

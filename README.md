@@ -15,3 +15,18 @@ Semua soalan ialah soalan asal gaya SPM, bukan soalan bocor atau ramalan rasmi. 
 
 ## Cara buka
 Satu fail sahaja: `index.html`. Buka terus dalam pelayar, atau hoskan melalui GitHub Pages.
+
+## Pasang sebagai aplikasi (PWA)
+
+Muat naik **semua** fail ke repo (index.html, manifest.webmanifest, sw.js dan folder icons/), kemudian hidupkan GitHub Pages di Settings → Pages → Branch: main / root. Buka pautan Pages di telefon:
+
+- Android / Chrome / Edge: tekan butang **Pasang aplikasi** di bahagian atas, atau menu ⋮ → Install app.
+- iPhone / Safari: Share → Add to Home Screen.
+
+Selepas dibuka sekali dengan internet, aplikasi boleh digunakan tanpa talian. Service worker hanya berfungsi melalui https (GitHub Pages), bukan apabila fail dibuka terus dari komputer.
+
+## Storan
+
+Jawapan, sejarah ujian dan tetapan disimpan dalam IndexedDB pelayar (dengan localStorage sebagai sandaran). Tab Analisis ada kad **Storan & sandaran** untuk menyalin kod sandaran dan memulihkannya pada peranti lain.
+
+Disediakan oleh Ir. Ts. Dr. Muhammad Hafiz HASSAN, Pusat Pengajian Kejuruteraan Mekanik, Universiti Sains Malaysia.
