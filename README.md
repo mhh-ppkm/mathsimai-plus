@@ -18,7 +18,7 @@ Satu fail sahaja: `index.html`. Buka terus dalam pelayar, atau hoskan melalui Gi
 
 ## Pasang sebagai aplikasi (PWA)
 
-Muat naik **semua** fail ke repo (index.html, manifest.webmanifest, sw.js dan folder icons/), kemudian hidupkan GitHub Pages di Settings → Pages → Branch: main / root. Buka pautan Pages di telefon:
+Muat naik **semua 8 fail** ke repo (index.html, manifest.webmanifest, sw.js, README.md dan 4 fail ikon .png). Tiada folder, jadi boleh dimuat naik terus dari telefon, kemudian hidupkan GitHub Pages di Settings → Pages → Branch: main / root. Buka pautan Pages di telefon:
 
 - Android / Chrome / Edge: tekan butang **Pasang aplikasi** di bahagian atas, atau menu ⋮ → Install app.
 - iPhone / Safari: Share → Add to Home Screen.
